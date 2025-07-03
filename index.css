@@ -1,6 +1,7 @@
 
 /*Em: use previous WS's css file as template and work from there*/ 
 
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0fdf4;
@@ -72,4 +73,26 @@ body {
     margin: 0 10px;
     font-weight: bold;
   }
-
+  
+  .cart-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  button.increment {
+    background-color: #4ade80; /* green */
+  }
+  
+  button.decrement {
+    background-color: #f87171; /* red */
+  }
+  
+  button.increment:hover {
+    background-color: #22c55e;
+  }
+  
+  button.decrement:hover {
+    background-color: #ef4444;
+  }
+  
