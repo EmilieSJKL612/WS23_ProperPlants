@@ -10,10 +10,11 @@ mindmap
     data.js
     index.css
     main.jsx
-    PlantList.jsx
-    PlantCard.jsx
-    Cart.jsx
-    CartItem.jsx
+    components
+      PlantList.jsx
+      PlantCard.jsx
+      Cart.jsx
+      CartItem.jsx
 
 
 
