@@ -2,6 +2,7 @@
 
 ## try1 - structure as follows (WS not yet finished):
 
+```mermaid
 src/
 ├── App.jsx
 ├── Cart.jsx
@@ -11,4 +12,4 @@ src/
 ├── data.js
 ├── index.css
 └── main.jsx
-
+```
