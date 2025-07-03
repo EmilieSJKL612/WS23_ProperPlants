@@ -3,13 +3,20 @@
 ## try1 - structure as follows (WS not yet finished):
 
 ```mermaid
-src/
-├── App.jsx
-├── Cart.jsx
-├── CartItem.jsx
-├── PlantList.jsx
-├── PlantCard.jsx
-├── data.js
-├── index.css
-└── main.jsx
+
+mindmap
+  root((src))
+    App.jsx
+    data.js
+    index.css
+    main.jsx
+    PlantList.jsx
+    PlantCard.jsx
+    Cart.jsx
+    CartItem.jsx
+
+
+
+
+
 ```
