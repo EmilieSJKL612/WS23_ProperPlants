@@ -1,7 +1,7 @@
 
 import CartItem from "./CartItem";
 
-export dafault function Cart({ cart, onUpdateQuality }){
+export default function Cart({ cart, onUpdateQuality }){
     return(
         <div className="cart">
             <h2>Your Cart</h2>

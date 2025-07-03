@@ -1,8 +1,9 @@
 
 import { useState } from "react";
 import PLANTS from "./data";
-import PlantList from "./PlantList";
-import Cart from "./Cart";
+//Em: RQ2, thus move components PlantList, PlantCard, Cart and CartItem to components folder
+import PlantList from "./components/PlantList";
+import Cart from "./components/Cart";
 
 
 export default function App() {
